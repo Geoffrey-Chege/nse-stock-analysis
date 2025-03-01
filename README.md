@@ -29,7 +29,8 @@ nse-stock-analysis/
 │ ├── optimization_loop.py # Module for optimizing strategy parameters 
 │ └── utils.py # Helper functions (e.g., get_latest_file) 
 ├── main.py # Entry point tying all modules together 
-├── requirements.txt # List of project dependencies 
+├── requirements.txt # List of project dependencies
+├── LICENSE
 └── README.md # This file
 ```
 
